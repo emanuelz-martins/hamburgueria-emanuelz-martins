@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "email": "emanuel@mail.com",
+      "password": "$2a$10$00VQB9ML6WsSwouz8eh2VufKQA/CHP7p8lXga090cgzfPOwBfTy2O",
+      "name": "Emanuel",
+      "id": 1
+    },
+    {
+      "email": "marcos@mail.com",
+      "password": "$2a$10$rv8XdaRuofeHRuCod7Akj.uK7IRQK5koOAmsFrXHK2eOv0lYhZGtS",
+      "name": "Marcos",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Hamburguer",
+      "category": "Sanduíches",
+      "price": 7.99
+    },
+    {
+      "id": 2,
+      "name": "X-Burguer",
+      "category": "Sanduíches",
+      "price": 8.99
+    },
+    {
+      "id": 3,
+      "name": "X-Salada",
+      "category": "Sanduíches",
+      "price": 10.99
+    },
+    {
+      "id": 4,
+      "name": "Big Kenzie",
+      "category": "Sanduíches",
+      "price": 16.99
+    },
+    {
+      "id": 5,
+      "name": "Guaraná",
+      "category": "Bebidas",
+      "price": 4.99
+    },
+    {
+      "id": 6,
+      "name": "Coca",
+      "category": "Bebidas",
+      "price": 4.99
+    },
+    {
+      "id": 7,
+      "name": "Fanta",
+      "category": "Bebidas",
+      "price": 4.99
+    },
+    {
+      "email": "emanuel@mail.com",
+      "password": "123456",
+      "id": 8
+    }
+  ]
+}
